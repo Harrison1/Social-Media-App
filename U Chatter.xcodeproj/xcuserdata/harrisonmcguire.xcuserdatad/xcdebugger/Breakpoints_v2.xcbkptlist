@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/ComposeViewController.swift"
+            timestampString = "437622908.9975"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/TimelineTableViewController.swift"
+            timestampString = "439503520.311507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "132"
+            endingLineNumber = "132"
+            landmarkName = "showLoginSignup()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/TimelineTableViewController.swift"
+            timestampString = "439503520.311507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "134"
+            endingLineNumber = "134"
+            landmarkName = "showLoginSignup()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/TimelineTableViewController.swift"
+            timestampString = "439503520.311507"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "195"
+            endingLineNumber = "195"
+            landmarkName = "scaleImageWith(_:and:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/LoginViewController.swift"
+            timestampString = "439425306.744052"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "LoginViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.LoginViewController.password.getter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/LoginViewController.swift"
+                  timestampString = "440200838.253122"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.LoginViewController.password.setter : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/LoginViewController.swift"
+                  timestampString = "440200838.253409"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.LoginViewController.password.materializeForSet : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.UITextField&gt;"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/LoginViewController.swift"
+                  timestampString = "440200838.253599"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.LoginViewController.init (U_Chatter.LoginViewController.Type)() -&gt; U_Chatter.LoginViewController"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/LoginViewController.swift"
+                  timestampString = "440200838.25395"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "50">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.LoginViewController.init (U_Chatter.LoginViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; U_Chatter.LoginViewController"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/LoginViewController.swift"
+                  timestampString = "440200838.254125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "54">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/ProfilePageViewController.swift"
+            timestampString = "439822529.350516"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "loadImages()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/ProfilePageViewController.swift"
+            timestampString = "439822529.350516"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "loadImages()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/ProfileTableView.swift"
+            timestampString = "440224682.11162"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ProfileTableView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.delegate.getter : Swift.Optional&lt;U_Chatter.ProfileTableViewDelegate&gt;"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.258137"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.delegate.setter : Swift.Optional&lt;U_Chatter.ProfileTableViewDelegate&gt;"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.258337"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.init (U_Chatter.ProfileTableView.Type)(style : C.UITableViewStyle) -&gt; U_Chatter.ProfileTableView"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.258521"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.init (U_Chatter.ProfileTableView.Type)(coder : ObjectiveC.NSCoder) -&gt; U_Chatter.ProfileTableView"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.258656"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "204">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.delegate.materializeForSet : Swift.Optional&lt;U_Chatter.ProfileTableViewDelegate&gt;"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.258811"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/SidePanelViewController.swift"
+            timestampString = "440181059.679412"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "SidePanelViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.SidePanelViewController.__deallocating_deinit"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/SidePanelViewController.swift"
+                  timestampString = "440200838.279195"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc U_Chatter.SidePanelViewController.__ivar_destroyer"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/SidePanelViewController.swift"
+                  timestampString = "440200838.279447"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/ContainerViewController.swift"
+            timestampString = "440194130.125746"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "U Chatter/ProfileTableView.swift"
+            timestampString = "440224682.11162"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ProfileTableView"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.__deallocating_deinit"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.282202"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "@objc U_Chatter.ProfileTableView.__ivar_destroyer"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.282396"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.init (U_Chatter.ProfileTableView.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; U_Chatter.ProfileTableView"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.282574"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "U_Chatter.ProfileTableView.init (U_Chatter.ProfileTableView.Type)() -&gt; U_Chatter.ProfileTableView"
+                  moduleName = "U Chatter"
+                  urlString = "file:///Users/harrisonmcguire/iOS%20Apps/U%20Chatter/U%20Chatter/ProfileTableView.swift"
+                  timestampString = "440200838.282749"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "12">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

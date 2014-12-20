@@ -7,16 +7,46 @@
 //
 
 import UIKit
+import CoreData
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
     var window: UIWindow?
 
-
     func application(application: UIApplication, didFinishLaunchingWithOptions launchOptions: [NSObject: AnyObject]?) -> Bool {
-        // Override point for customization after application launch.
+
+        UINavigationBar.appearance().barTintColor = UIColor.blackColor()
+        UINavigationBar.appearance().tintColor = UIColor.whiteColor()
+        UIApplication.sharedApplication().setStatusBarStyle(UIStatusBarStyle.LightContent, animated: true)
+        
+        Parse.setApplicationId("your app id", clientKey: "your client key")
+        
+        self.createMenuView()
+        
         return true
+    }
+
+    internal func createMenuView() {
+        
+        //  SlideMenuController.swift
+        //  Created by Yuji Hato on 12/3/14.
+        
+        var storyboard = UIStoryboard(name: "Main", bundle: nil)
+        let mainViewController = storyboard.instantiateViewControllerWithIdentifier("ProfileTableView") as ProfileTableView
+        mainViewController.addLeftBarButtonWithImage(UIImage(named: "menu")!)
+        
+        let leftViewController = storyboard.instantiateViewControllerWithIdentifier("LeftViewController") as LeftViewController
+        
+        let nvc: UINavigationController = UINavigationController(rootViewController: mainViewController)
+        
+        // create viewController code...
+        
+        let slideMenuController = SlideMenuController(mainViewController:nvc, leftMenuViewController: leftViewController)
+        
+        //self.window?.backgroundColor = UIColor(red: 236.0, green: 238.0, blue: 241.0, alpha: 1.0)
+        self.window?.rootViewController = slideMenuController
+        self.window?.makeKeyAndVisible()
     }
 
     func applicationWillResignActive(application: UIApplication) {
