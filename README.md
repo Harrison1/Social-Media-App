@@ -9,3 +9,14 @@ The app is based off the swiffer tutuorial by Brian Advent https://www.youtube.c
 
 I built off it and added a profile page, intro page, and menu animation. 
 Menu animation provided by GitHub user Yuji Hato,I adopted his animation scipt and slightly added changes
+
+
+![Alt text](/screenshots/screen1.png?raw=true)
+
+![Alt text](/screenshots/screen2.png?raw=true)
+
+![Alt text](/screenshots/screen3.png?raw=true)
+
+![Alt text](/screenshots/screen4.png?raw=true)
+
+![Alt text](/screenshots/screen5.png?raw=true)
