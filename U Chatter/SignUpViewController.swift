@@ -19,7 +19,7 @@ class SignUpViewController: UIViewController {
     @IBOutlet var password: UITextField!
     @IBOutlet var passwordConfirm: UITextField!
     
-    let genderScroll = ["Male", "Female", "Tranz", "Monster", "Crazy Motherfucker", "I'm My Own Gender"]
+    let genderScroll = ["Male", "Female", "Tranz", "Monster", "Crazy", "I'm My Own Gender"]
     
     //variable for default image
     let picture:UIImage = UIImage(named: "Vincent")!

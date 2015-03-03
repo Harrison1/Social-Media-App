@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E9F100BA-26A8-4B08-9F9B-8ABDB500C3BC</string>
+	<key>IDESourceControlProjectName</key>
+	<string>U Chatter</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DF8B7F49DBBFC6CC5C8E13C58E84DB49617901DE</key>
+		<string>https://github.com/Harrison1/Social-Media-App.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>U Chatter.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DF8B7F49DBBFC6CC5C8E13C58E84DB49617901DE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Harrison1/Social-Media-App.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DF8B7F49DBBFC6CC5C8E13C58E84DB49617901DE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DF8B7F49DBBFC6CC5C8E13C58E84DB49617901DE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Social%20Media%20App</string>
+		</dict>
+	</array>
+</dict>
+</plist>
